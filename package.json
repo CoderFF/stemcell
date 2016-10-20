@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "Andrey Kozlov",
+    "url": "https://github.com/CoderFF/"
+  },
+  "name": "stemcell",
+  "license": "GNU GPL3",
+  "homepage": "https://github.com/CoderFF/stemcell",
+  "description": "Generic model for node-express",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderFF/stemcell"
+  },
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=0.10.36"
+  },
+  "dependencies": {
+    "pg-format": "1.0.2",
+    "validator": "5.5.0"
+  },
+  "_id": "stemcell@1.0.0"
+}
