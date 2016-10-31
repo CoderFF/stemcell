@@ -7,7 +7,7 @@
   "license": "GNU GPL3",
   "homepage": "https://github.com/CoderFF/stemcell",
   "description": "Generic model for node-express",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CoderFF/stemcell"
@@ -23,5 +23,5 @@
     "pg-format": "1.0.2",
     "validator": "5.5.0"
   },
-  "_id": "stemcell@1.0.4"
+  "_id": "stemcell@1.0.5"
 }
